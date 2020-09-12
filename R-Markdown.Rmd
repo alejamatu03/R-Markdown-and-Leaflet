@@ -1,5 +1,5 @@
 ---
-date: "mars 10, 2019"
+date: "sep 11, 2020"
 output: html_document
 ---
 
@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# September 13, 2016
+# September 11, 2020
 
 ```{r chunk 1}
 place <- c("16 Buckingham Drive", "Eastampton Community School", "Rancocas Valley Regional High School", "Buttonwood Park", "Rutgers University", "University of California, Los Anglees", "10941 Strathmore Drive", "Aurora", "Coffee Bean", "many dollars spent, many books unread, much music heard", "St. Agnes Hospital", "Talvandi Arain", "Sialkot, Punjab", "Dharamsala, Himachal Pradesh", "Magnolia Hotel", "Wu Tang Klang", "Shrine of Bullhe Shah", "St. Joseph Hospital", "Lahore, Punjab", "Ratajoa (Pool of Blood)" )
